@@ -1,0 +1,8 @@
+{
+    "venvPath": "/home/capsicle/410",
+    "venv": "venv",
+    "extraPaths": [
+        "/home/capsicle/410",
+        "/home/capsicle/410/venv/lib/python3.14/site-packages"
+    ]
+}
